@@ -1,4 +1,4 @@
-# day-1-vue
+# Behance | Simplā
 
 ## Project setup
 ```
