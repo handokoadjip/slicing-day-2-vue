@@ -1,8 +1,5 @@
 <template>
   <header class="position-relative">
-    <!--------------------------------------------- 
-      Navbar
-    ---------------------------------------------->
     <nav class="navbar fixed-top navbar-light px-4">
       <div class="container-fluid">
         <router-link class="navbar-brand text-center d-none d-lg-block mp-0 fw-bolder fs-1 ff-karla ls--3px" to="#">
@@ -32,13 +29,6 @@
         </div>
       </div>
     </nav>
-    <!--------------------------------------------- 
-      Navbar
-    ---------------------------------------------->
-
-    <!--------------------------------------------- 
-      Section Header
-    ---------------------------------------------->
     <section class="px-4">
       <div class="container-fluid">
         <div class="row min-vh-70 pt-5">
@@ -62,9 +52,6 @@
         </div>
       </div>
     </section>
-    <!--------------------------------------------- 
-      Section Header
-    ---------------------------------------------->
   </header>
 </template>
 
