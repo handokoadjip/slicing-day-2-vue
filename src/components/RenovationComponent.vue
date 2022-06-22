@@ -5,7 +5,7 @@
         <div class="col-lg-7 mb-5 pb-5 mb-lg-0 pb-lg-0">
           <div class="wrapper">
             <div class="pe-0 pe-lg-5">
-              <h2 class="fw-normal fs-2 text-border-top fw-bold mb-5">
+              <h2 class="fs-2 text-border-top fw-bold mb-5">
                 Renovation made Simpla
               </h2>
               <p class="fs-5 mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet facere delectus
@@ -21,7 +21,7 @@
         <div class="col-lg-5">
           <div class="wrapper">
             <div class="pe-0 pe-lg-5">
-              <h2 class="fw-normal fs-2 text-border-top fw-bold mb-5">
+              <h2 class="fs-2 text-border-top fw-bold mb-5">
                 Areas of expertise
               </h2>
               <div v-for="(list, index) in lists" :key="index">

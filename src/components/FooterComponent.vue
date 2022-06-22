@@ -5,7 +5,7 @@
         <div class="col-lg-12">
           <div class="wrapper">
             <div class="copyright d-block d-lg-flex justify-content-lg-between align-items-lg-center text-center">
-              <ul class="text-uppercase d-inline mp-0">
+              <ul class="text-uppercase d-flex justify-content-center mp-0">
                 <li class="d-inline">
                   <router-link class="nav-link fs-7 fw-bold d-lg-inline d-block" to="#">content</router-link>
                 </li>
